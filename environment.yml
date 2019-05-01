@@ -1,10 +1,8 @@
-name: RecipeRobotApp
-channels:
-  - defaults
 dependencies:
   - asn1crypto=0.24.0=py37_0
   - attrs=19.1.0=py37_1
   - backcall=0.1.0=py37_0
+  - bcrypt=3.1.6=py37h7b6447c_0
   - blas=1.0=mkl
   - bleach=3.1.0=py37_0
   - bokeh=1.1.0=py37_0
@@ -83,6 +81,7 @@ dependencies:
   - pandocfilters=1.4.2=py37_1
   - panel=0.5.1=0
   - param=1.9.0=py_0
+  - paramiko=2.4.2=py37_0
   - parso=0.4.0=py_0
   - pcre=8.43=he6710b0_0
   - pexpect=4.7.0=py37_0
@@ -92,9 +91,11 @@ dependencies:
   - prometheus_client=0.6.0=py37_0
   - prompt_toolkit=2.0.9=py37_0
   - ptyprocess=0.6.0=py37_0
+  - pyasn1=0.4.5=py_0
   - pycparser=2.19=py37_0
   - pyct=0.4.6=py37_0
   - pygments=2.3.1=py37_0
+  - pynacl=1.3.0=py37h7b6447c_0
   - pyopenssl=19.0.0=py37_0
   - pyparsing=2.4.0=py_0
   - pyqt=5.9.2=py37h05f1152_2
@@ -134,5 +135,3 @@ dependencies:
   - zeromq=4.3.1=he6710b0_3
   - zlib=1.2.11=h7b6447c_3
   - zstd=1.3.7=h0b5b093_0
-prefix: /home/marcusskky/.conda/envs/reciperobot
-
