@@ -1,4 +1,4 @@
-name: reciperobot
+name: RecipeRobotApp
 channels:
   - defaults
 dependencies:
