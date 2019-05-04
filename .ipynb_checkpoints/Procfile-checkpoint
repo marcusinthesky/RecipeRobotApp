@@ -1,0 +1,1 @@
+web: panel serve app.ipynb --port 5000 --address 0.0.0.0
