@@ -1,1 +1,1 @@
-web: panel serve app.ipynb --port $PORT --allow-websocket-origin=mighty-bastion-60009.herokuapp.com
+web: panel serve app.ipynb --port $PORT --allow-websocket-origin=recipe-robot.herokuapp.com
