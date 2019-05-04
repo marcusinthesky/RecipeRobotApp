@@ -1,1 +1,2 @@
-*.json
+/Data/array-of-recipes
+/Data/recipe-ingredients-dataset
